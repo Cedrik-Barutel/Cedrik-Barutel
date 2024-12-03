@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Cedrik Barutel, currently in Vienna (Austria).
 <!--
 **Cedrik-Barutel/Cedrik-Barutel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
